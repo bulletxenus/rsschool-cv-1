@@ -26,6 +26,8 @@ for (let i = 1; i <= 5; i++) {
   }
 }
 ```
-6. Work experience: I don't have programming experience now.
+6. Work experience: 
+* [HTML-Academy](https://htmlacademy.ru/)
+* [Wildlife](https://despetrikov.github.io/wildlife/index.html)
 7. Education: Belarussian National Technical University. Mining engineer electromechanic. 
 8. English language: I have good reading and translating ability in English.
